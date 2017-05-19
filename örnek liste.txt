@@ -1,0 +1,16 @@
+/dork_list
+/dorklar
+/wordpress
+/joomla
+/wp-admin
+/admin.php
+/panel.php
+/panel.asp
+/wpadmn
+/admin
+/adminstator
+/wp-admin.php
+/kpanel
+/cpanel
+/kpanel.php
+/adminpanel5
